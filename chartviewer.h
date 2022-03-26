@@ -1,6 +1,7 @@
 #ifndef CHARTVIEWER_H
 #define CHARTVIEWER_H
 
+
 #include <QWidget>
 #include <QMenuBar>
 #include <QMenu>
