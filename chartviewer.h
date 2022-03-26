@@ -11,7 +11,7 @@
 #include <QLabel>
 #include <QPushButton>
 
-
+asd
 
 class ChartViewer: public QWidget{
     Q_OBJECT
